@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cheeseycube
 - 👀 I’m interested in data science and game development
-- 🌱 I’m currently learning game dev in Unity while on summer break
+- 🌱 I’m currently taking classes at Great Bay Community College
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Jroussos01@gmail.com
 
