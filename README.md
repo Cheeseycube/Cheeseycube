@@ -1,4 +1,6 @@
-
+- Hi, I'm Joseph.
+- I make data-related software and programs
+- I also make video games as a hobby
 
 <!---
 Cheeseycube/Cheeseycube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
