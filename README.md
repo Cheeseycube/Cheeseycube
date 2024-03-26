@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Cheeseycube
-- 👀 I’m interested in data science and game development
-- 🌱 I’m currently taking classes at UNH
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Jroussos01@gmail.com
+
 
 <!---
 Cheeseycube/Cheeseycube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
